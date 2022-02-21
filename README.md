@@ -17,4 +17,4 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 * According to the analysis, over 70,000 positions will need to be filled to make up for the employees nearing retirement.  
   
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?  
-* 1,549 employees are eligible for the mentorship program, this does not fill the need of opening jobs that will be coming with the "silver tsunami". 
+* 1,549 employees are eligible for the mentorship program, this does not allow for the influx of incoming employees that would be needed with the "silver tsunami". 
